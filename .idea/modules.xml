@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../core/.idea/core.iml" filepath="$PROJECT_DIR$/../core/.idea/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crawlers.iml" filepath="$PROJECT_DIR$/.idea/crawlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../firehose_twitter/.idea/firehose_twitter.iml" filepath="$PROJECT_DIR$/../../firehose_twitter/.idea/firehose_twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../graphs/.idea/graphs.iml" filepath="$PROJECT_DIR$/../graphs/.idea/graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../misc/.idea/misc.iml" filepath="$PROJECT_DIR$/../misc/.idea/misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../reddit/.idea/reddit.iml" filepath="$PROJECT_DIR$/../../reddit/.idea/reddit.iml" />
+    </modules>
+  </component>
+</project>
