@@ -30,6 +30,15 @@ var/
 *.manifest
 *.spec
 
+# html files
+*.html
+
+#image files
+*.jpg
+*.png
+*.svg
+*.pdf
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
